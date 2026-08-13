@@ -19,7 +19,7 @@ Most importantly, I bring a strong willingness to learn, adapt, collaborate, and
 •	Key responsibilities: cleaned data, calculated KPIs, analyzed funnels, performed A/B testing, and built dashboards.
 •	Impact: Confirmed profitability, identified customer drop-off points, evaluated product impact on revenue, and presented key insights reducing data preparation time by 30%.
 
-🛠️ Technical skills
+##🛠️Technical skills
 Python, SQL, Power BI, Funnel analysis, Test A/B, Storytelling. 
 
 📝 ##Professional Interests
